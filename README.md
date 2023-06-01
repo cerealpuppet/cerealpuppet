@@ -1,11 +1,8 @@
 <div align="center">
- <img height="200em"  src="https://media.discordapp.net/attachments/874387729440444427/1113627857856499782/feature-open-source2x.gif">
+ <h1>Bem vindos</h1>
 </div>
-<div align="center">
-  
-### Bem vindos, me chamo João Marcelo
-
-  
+<div align="center">  
+ <img height="200em"  src="https://media.discordapp.net/attachments/874387729440444427/1113627857856499782/feature-open-source2x.gif">
 </div>
 <div align="center"> 
   <a href = "mailto:jmarcelocarneiro@edu.unifor.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
