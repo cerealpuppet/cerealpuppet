@@ -1,5 +1,5 @@
 <div align="center">
- <code >Bem vindos</code>:smirk:
+ <code >Bem vindos</code>
 </div>
 <div align="center">  
  <img height="200em"  src="https://media.discordapp.net/attachments/874387729440444427/1113627857856499782/feature-open-source2x.gif">
