@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://github.com/cerealpuppet">
     <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/cerealpuppet?cardType=github&amp;theme=tokyonight&amp;preferLogin=false">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cerealpuppet&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cerealpuppet&layout=donut&theme=tokyonight">
  </div>
 <picture>
   <source
