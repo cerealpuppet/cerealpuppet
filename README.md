@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/cerealpuppet">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cerealpuppet&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerealpuppet&layout=donut&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cerealpuppet&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cerealpuppet&layout=donut&theme=tokyonight">
  </div>
 <picture>
   <source
